@@ -29,4 +29,4 @@ free -h
 ```
 
 
-![redireccionamiento](redireccionamientosh.png)
+!(redireccionamientosh.png)
