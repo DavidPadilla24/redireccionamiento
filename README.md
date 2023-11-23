@@ -1,4 +1,4 @@
-# redireccionamiento
+# Redireccionamiento
 
 ### Enunciado: Genera un archivo llamado informe.txt que contenga la siguiente informacion : 
 
