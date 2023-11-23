@@ -14,7 +14,8 @@
   
 
 ```
-#!/bin/bash 
+#!/bin/bash
+
 echo "Fecha: $(date +%d-%m-%Y)"
 
 echo "Espacio en Disco: $(df -h)" 
