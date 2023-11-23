@@ -27,3 +27,6 @@ echo "Memoria libre del sistema:"
 free -h
 
 ```
+
+
+!{redireccionamientosh.png}(redireccionamientosh.png)
