@@ -14,4 +14,13 @@
   
 
 ```
+#!/bin/bash 
+echo "Fecha: $(date +%d-%m-%Y)"
+
+echo "Espacio en Disco: $(df -h)" 
+
+echo "Usuarios conectados: $(who)"
+
+echo "Memoria libre del sistema: $(free -h)" 
+
 ```
